@@ -485,11 +485,6 @@ setprototypeof@1.1.1:
   resolved "https://registry.npm.taobao.org/statuses/download/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
   integrity sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=
 
-taffy@^2.6.2:
-  version "2.6.2"
-  resolved "https://registry.npm.taobao.org/taffy/download/taffy-2.6.2.tgz#e7a365503adbb4c641a666d849d001277fbb5893"
-  integrity sha1-56NlUDrbtMZBpmbYSdABJ3+7WJM=
-
 toidentifier@1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/toidentifier/download/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"
